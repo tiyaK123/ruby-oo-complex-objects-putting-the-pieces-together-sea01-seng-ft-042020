@@ -6,7 +6,7 @@ class Book
   def title
     @title
   end
-  def title=(title)
+  def author=(author)
     @title = title
   end
 end
