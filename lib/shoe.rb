@@ -11,4 +11,4 @@ def cobble
 end
 end
 shoe = Shoe.new("Nike")
-  
+  shoe.brand
